@@ -12,8 +12,8 @@ from random import random
 # manages imports
 
 
-MY_USERNAME = "EXAMPLE@gmail.com"
-MY_PASSWORD = "PASSWORD123"
+MY_USERNAME = "skinnerjayden51@yahoo.com"
+MY_PASSWORD = "jayden123"
 # username and password
 
 SLEEP_TIME = 1
